@@ -44,12 +44,21 @@ hr {
     border-top: 2px solid #cccccc;
 }
 
-.banner {
-    bottom: 10px;
-    width: 100%;
-    background-color: #4aaaa5;
-}
-
 .submit {
     background-color: #4aaaa5;
 }
+
+.banner:link, .banner:visited {
+    bottom: 20px;
+    width: 100%;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.banner:hover{
+    background-color: #666666;
+}
+
