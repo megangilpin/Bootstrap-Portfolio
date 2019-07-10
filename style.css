@@ -11,9 +11,9 @@ body{
     width: 100%;
   }
 
-.hd {
+/* .hd {
     width: 960px;
-}
+} */
 
 .name {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -30,7 +30,6 @@ footer {
 }
 
 .main {
-    width: 960px;
     border: 1px solid #cccccc;
     background-color: #ffffff;
 }
